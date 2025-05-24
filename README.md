@@ -4,4 +4,4 @@ Este repositorio recopila las actividades realizadas en el marco de la asignatur
 
 ## Autores
 - **Juan Andrés Barrera Rodríguez** – [@Jbarreraro](https://github.com/Jbarreraro)  
-- **Eduardo Cuadros** - [@EdoCuadros](https://github.com/EdoCuadros)
+- **Eduardo Cuadros Montealegre** - [@EdoCuadros](https://github.com/EdoCuadros)
