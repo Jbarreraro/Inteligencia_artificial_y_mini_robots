@@ -26,7 +26,6 @@ Luego se crea el vector de puntos _X_ y la función respectiva _y_:
 
 $$ y = \sqrt{x} $$
 
-
 ```python
 X = np.linspace(0,1000, 800).reshape(-1,1)
 y = np.sqrt(X).ravel()
@@ -48,7 +47,6 @@ como modelo un **Support Vector Machine**. Los parámetros que se le dan son los
 model = SVR(kernel='rbf', C=100, gamma=0.01, epsilon=0.1)
 model.fit(X,y.ravel())
 ```
-![Uploading download.png…]()
 
 Luego de esto se prueba el modelo con otros datos 
 
