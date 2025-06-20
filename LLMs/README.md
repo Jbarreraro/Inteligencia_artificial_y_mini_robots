@@ -1,5 +1,8 @@
 
-# Ejercicios de Capitulo: Introducción
+# Taller de capítulo: Introducción
+## Autores:
+- Eduardo Cuadros
+- Juan Barrera
 
 ## 1.1 Pídale a varios LLMs de IAGen una definición de IA
 
