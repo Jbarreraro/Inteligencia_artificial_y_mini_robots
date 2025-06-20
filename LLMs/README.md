@@ -52,3 +52,7 @@ Se propusieron seis objetivos estratégicos:
 - Desarrollar capacidades y talento en IA para impulsar el desarrollo personal y la productividad.
 - Definir medidas para identificar y mitigar riesgos asociados con la IA.
 - Impulsar la adopción de la IA en entidades públicas, empresas y territorios para contribuir al bienestar social, económico y ambiental del país.
+
+### Conclusiones
+
+Las definiciones de inteligencia artificial que varios modelos de lenguaje dan coinciden en varios aspectos clave. Todos  resaltan la capacidad de las máquinas para realizar tareas que normalmente requieren inteligencia humana, como el aprendizaje, la percepción, la toma de decisiones y el razonamiento. Cada uno de los modelos enfatiza que la IA se refiere a sistemas informáticos que simulan capacidades humanas para resolver problemas, reconocer patrones y comprender el lenguaje natural, lo cual refleja el consenso actual de la comunidad sobre la naturaleza de la propia IA. Por otra parte, nuestra definición propia de IA, resalta en que se basa en modelos matemáticos y estadísticos entrenados con datos para hacer predicciones y resolver problemas. También podemos notar que tanto el avance de los xenobots como las políticas nacionales de IA reflejan un enfoque hacia la creación y el uso de tecnologías autónomas y sostenibles, que no solo impulsan la innovación científica, sino que también requieren una reflexión ética y responsable sobre su impacto en la sociedad.
