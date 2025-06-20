@@ -21,7 +21,7 @@
 
 ## 1.2 Dé una definición propia de inteligencia artificial
 
-La inteligencia artificial es un conjunto de modelos matemáticos y estadísticos que se entrenan con conjuntos de datos. El objetivo es lograr que los sistemas predigan eventos  posteriores según probabilidades calculadas.
+La inteligencia artificial es un conjunto de modelos matemáticos y estadísticos que se entrenan con conjuntos de datos. Este entrenamiento consiste en que el modelo cree relaciones entre las entradas que se le dan y las salidas esperadas. Con el objetivo de que posteriormente pueda hacer predicciones acertadas con datos de entrada distintos. 
 
 ## 1.4 Vea el video y haga un análisis de lo discutido en el documento con respecto al video.
 
