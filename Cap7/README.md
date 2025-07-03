@@ -77,5 +77,5 @@ El modelo no genera imágenes, audio ni video. Sin embargo, tiene la capacidad d
 
 ## Punto 3:
 
-La solución del punto 3 se puede ver en este Jupyter Notebook.
+La solución del punto 3 se puede ver en [este Jupyter Notebook](#Cap7/Capitulo7_Punto3.ipynb).
 
