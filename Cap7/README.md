@@ -5,7 +5,7 @@
 - Juan Barrera
 
 ## Punto 1: Desarrollar un agente de IA, con cualquier chatbot de IA, para el manejo de las tareas del curso.
-La solución del punto 1 se puede ver en [este Jupyter Notebook](Cap7/Capitulo_7_Punto_1.ipynb).
+La solución del punto 1 se puede ver en [este Jupyter Notebook](Capitulo_7_Punto_1.ipynb).
 
 ## Punto 2: Hacer un estudio de diferentes chatbots de IA, cuyo costo sea $0, para actividades como: resumen de texto, generación de texto, generación de imágenes, generación de audio y generación de video.
 
